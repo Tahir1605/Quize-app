@@ -1,12 +1,53 @@
-# React + Vite
+# 🧠 Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Screenshot](screenshots/Quize.png)
 
-Currently, two official plugins are available:
+## 📌 Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a dynamic and engaging **Quiz App** developed using **React.js**, designed to provide an interactive learning experience by fetching quiz questions from a public **Trivia API**.
 
-## Expanding the ESLint configuration
+The app features a responsive and visually appealing user interface that allows users to select answers, view instant feedback, and track their real-time score. It’s designed to be intuitive, making it suitable for users of all age groups.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✅ Key Features
+
+- ❓ Fetches quiz questions dynamically from an API  
+- ⏱️ Real-time score tracking and instant answer feedback  
+- 📋 Multiple-choice questions with smooth navigation  
+- 🌓 Toggle between **Dark and Light Mode**  
+- ⚡ Built with **React.js** for a dynamic, component-driven UI  
+- 📱 Fully responsive design – compatible across all devices  
+
+This project sharpened my skills in API integration, user state management, and creating interactive components in React.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS  
+- **API**: Open Trivia DB (or any Trivia API you used)  
+- **Deployment**: GitHub Pages  
+
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to view the project](https://tahir1605.github.io/Quize-app/)  
+
+
+---
+
+
+
+## 📚 Learning Highlights
+
+- React Hooks (useState, useEffect)
+- Conditional rendering
+- Responsive layout with Tailwind CSS
+- API calls and data handling
+- Theme toggling (Dark/Light mode)
+
+---
+
+
